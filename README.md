@@ -4,7 +4,7 @@
 </p>
 
 
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/abednajjar27)
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Abdalqader27)
 
 ## :sassy_man:  About me
 - :school: I am a `Graduated` at Faculty of Computers & Informatics at Aleppo University
@@ -46,8 +46,8 @@
 
 <div align="center">
   <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abednajjar27&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abednajjar27&layout=compact&langs_count=7&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdalqader27&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalqader27&layout=compact&langs_count=7&theme=light"/>
 </div>
 <br>
 <div align ="center"> 
@@ -61,7 +61,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/abednajjar27"><img alt="Abd Alqader's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abdalqader27&theme=react-dark" /></a>
+   <a href="https://github.com/Abdalqader27"><img alt="Abd Alqader's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abdalqader27&theme=react-dark" /></a>
   <br/>
 
 
